@@ -1,0 +1,2 @@
+# erpnext-practica
+parctica erp
